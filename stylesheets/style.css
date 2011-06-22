@@ -1,0 +1,22 @@
+body
+{
+    background-color:grey;
+}
+
+div.background
+{
+    background-image:url(http://farm6.static.flickr.com/5103/5624368113_d3d445aa19_b.jpg);
+    background-repeat:no-repeat;
+    height: 683px;
+    width: 1024px;
+}
+
+div.verbage
+{
+    background-color:white;
+    position: relative;
+    top: 80px;
+    left: 680px;
+    width: 310px;
+    padding: 10px;
+}
