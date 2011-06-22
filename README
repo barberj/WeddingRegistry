@@ -1,0 +1,13 @@
+The most complicated static webpage ever.
+
+Originally intended to be more dynamic with itemized items (parts of the bike, saddle, spokes etc)
+that could be purchased using Google shopping cart. However, I realized after a few items there would
+only be the expensive frame left and it became apparent I would have to answer a bunch of tax 
+questions to become a seller I went with PayPal donations. Donations allow people to donate any amount
+and they aren't left with the wierd feeling of only buying us spokes. 
+
+Still a good exercise to figure out the beginings of Google App Engine.
+
+FYI:
+I would never buy domain through Google again. It randomly quite pointing to my app and their support is none 
+existent or sucks.
