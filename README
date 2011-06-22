@@ -1,17 +1,19 @@
-The most complicated static webpage ever.
+An overly complicated static webpage.
 
-Originally intended to be more dynamic with itemized items (parts of the bike, saddle, spokes etc)
-that could be purchased using Google shopping cart. However, I realized after a few items there would
-only be the expensive frame left and it became apparent I would have to answer a bunch of tax 
-questions to become a seller I went with PayPal donations. Donations allow people to donate any amount
-and they aren't left with the wierd feeling of only buying us spokes. 
+Originally intended to be more dynamic with bike broken down into individual items that 
+people could buy (ie. Parts of the bike, saddle, spokes, etc) I realized when trying to break the bike
+down there weren't going to be many items and that I would still be left with expensive 
+items such as the frame and rims. Also discovered that I was going to have to answer a bunch of
+tax questions to be able to use be a Google Seller. So I went with PayPal donations. 
+Donations allowed people to donate any amount and they aren't going to be left with the 
+weird feeling of buying us spokes or pedals. 
 
-Still a good exercise to figure out the beginings of Google App Engine.
+Still a good exercise to figure out the beginnings of Google App Engine.
 
 FYI:
 I would never buy domain through Google again. It randomly quite pointing to my app and their 
 support is non-existent or sucks.
 
-Until i get http://www.angelaandjustinbarber.com working it can be found at:
+Until I get http://www.angelaandjustinbarber.com working it can be found at:
 http://tandemregistry.appspot.com/
 http://tandem.angelaandjustinbarber.com/
